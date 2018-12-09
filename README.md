@@ -47,6 +47,40 @@ Final project for frontend 1.1, researching the SVG API and exploring the featur
       
 12. [SVG Image Element](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/SVG_Image_Tag): 
       - Allows for raster images to be rendered within an SVG object
+      
+## Browser Support
+SVG has broad browser support and will work on most modern browsers
+   - Internet Explorer
+   - Edge
+   - Firefox
+   - Chrome
+   - Safari
+   - Opera
+   - iOS Safari 
+   - Opera Mini 
+   - Android Browser
+   - Blackberry Browser 
+   - Opera Mobile
+   - Chrome for Android
+   - Firefox for Android
+   - IE Mobile
+   - UC Browser for Android
+   - Samsung Internet
+   - QQ Browser
+   - Baidu Browser
+### No Support: 
+   - Internet Explorer 8 or earlier
+   - Android 2.3 or earlier browsers
+   - Some early versions of Chrome and Safari
+
+## My Opinions and Experiences
+### Do I think SVG is a good feature?
+Yes, I think SVG is a good feature. My favorite part is that it allows me to make complex creations in Sketch App and copy/paste the direct SVG code into the HTML of one of my web projects. Once my artwork is turned into SVG code, I can then edit colors, dimensions, and any other parts of the SVG code that I wish to change later on. This is a great feature because it allows designers to easily change and adjust their artwork based on feedback or a change of heart. 
+
+### How do I think SVG will be used?
+SVG will be used to create all kinds of vector graphics of varying complexity. 
+
+### What kind of apps do I see making use of SVG?
 
 
 
