@@ -1,5 +1,6 @@
 # SVG-API-project
 Final project for frontend 1.1, researching the SVG API and exploring the features by making test functions
+
 <svg width="349px" height="142px" viewBox="0 0 349 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <filter x="-3.5%" y="-8.5%" width="107.0%" height="117.0%" filterUnits="objectBoundingBox" id="filter-1">
@@ -70,4 +71,3 @@ Final project for frontend 1.1, researching the SVG API and exploring the featur
         </g>
     </g>
 </svg>
-<svg width="200px" height="200px">
