@@ -79,7 +79,7 @@ Final project for frontend 1.1, researching the SVG API and exploring the featur
 
 ## Uses and Features 
 ### Uses
-   - SVG is a Standard Vector Graphic format based on XML. SVG are plain text files used to display a variety of graphics on the web.
+   - SVG is a Scalable Vector Graphic format based on XML. SVG are plain text files used to display a variety of graphics on the web.
 
 ### Features
 #### All features have a link to additional documentation
