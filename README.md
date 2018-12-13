@@ -81,7 +81,13 @@ Yes, I think SVG is a good feature. My favorite part is that it allows me to mak
 SVG will be used to create all kinds of vector graphics of varying complexity. 
 
 ### What kind of apps do I see making use of SVG?
+I think any web app, including games and animations, will make use of SVG
 
+## Documentation 
+### [SVG Element Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)
+### [SVG Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute)
+### [SVG DOM Interfance Reference](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference#SVG_interfaces)
+### [Applying SVG Effects to HTML Content](https://developer.mozilla.org/en-US/docs/Web/SVG/Applying_SVG_effects_to_HTML_content)
 
 
 
